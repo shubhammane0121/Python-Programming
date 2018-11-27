@@ -1,3 +1,7 @@
+#e-commerce
+#shubham mane
+#38
+#11810247
 from easygui import *
 import sys
 list1=[]
