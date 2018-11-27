@@ -1,3 +1,0 @@
-os.rename("new.txt","new..txt")  
-
-os.remove("new..txt") 
